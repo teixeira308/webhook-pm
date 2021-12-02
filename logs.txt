@@ -1,0 +1,6 @@
+2021.12.02.0.44.51 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}
+2021.12.02.0.44.55 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}
+2021.12.02.0.44.56 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}
+2021.12.02.0.44.56 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}
+2021.12.02.0.44.57 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}
+2021.12.02.0.44.57 : {"resource":"/shipments/2195160688","user_id":468424240,"topic":"shipments","application_id":5503910054141466,"attempts":1,"sent":"2019-10-30T16:19:20.129Z","received":"2019-10-30T16:19:20.106Z"}

@@ -1,0 +1,21 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "uma pequena api node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "b": "^2.0.1",
+    "body-parser": "^1.19.0",
+    "morgan-body": "^2.6.6"
+  }
+}
