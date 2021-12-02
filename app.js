@@ -1,7 +1,7 @@
 const express = require('express')  
 const app = express()
-const port = 3000 
 
+var porta = process.env.PORT || 8080;
 
  
 app.use(express.json());
@@ -38,9 +38,10 @@ app.post('/webhook', function (req, res) {
     //respondendo 200 ok
     res.statusCode = 200;
     res.setHeader('Content-type','text/plain');
-    res.json('ok - pedido'+pedido)
+    res.json('ok - pedido: '+pedido)
   })
 
-app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`)
+app.listen(porta, () => {
+    console.log('Example app listening at https://app-webhook-pdv.herokuapp.com/webhook')
 })
+
